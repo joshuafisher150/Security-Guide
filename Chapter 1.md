@@ -122,3 +122,5 @@ Components to Forensic Investigation:
    b. Attack inside a Computer
    c. Removable Storage Drive Attached to a Computer/Server
    d. Command-Line Tools - netstat -an: this tool provides information that could disappear if you reboot the computer
+
+Collection
