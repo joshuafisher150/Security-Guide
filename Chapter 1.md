@@ -93,8 +93,15 @@ Group-Based Access Control
 
 **Linux File Permissions**
 
-Physical Security Controls
-- Badge, Fence, Signage, Security Officers, Turnstile
+### Physical Security Controls
 
-Device Protection
+**Perimeter Security**
+- Badge, Fence, Signage, Security Officers, Turnstile, Robot Sentries, Visitor Logs, Cameras, Industrial Camouflage
+
+**Building Security**
+- Security Guards, Two-Person Integrity/Control, Proximity Cards, Tokens, Biometric Locks
+  
+**Device Protection**
 - Air Gap, Faraday Cage, Vault, USB Data Blocker
+
+### Digital Forensics
