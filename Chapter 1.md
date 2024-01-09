@@ -105,3 +105,20 @@ Group-Based Access Control
 - Air Gap, Faraday Cage, Vault, USB Data Blocker
 
 ### Digital Forensics
+
+#### NIST - National Institute of Standards and Technologies
+
+In 2006, Forensic Process 19 propesed by NIST consisted of four different phases.
+
+1. Collection: Data is examined, extracted from its source, and converted into a format usable format by forensic tools to examine it.
+2. Examination: Data is hashed before is examined to protect integrity. After it is examined in the forensic tools it hashed again to ensure it has not been tampered with.
+3. Analysis: The examined data is transformed into information that can be used as evidence.
+4. Reporting: A report is compiled that can be used as evidence for a conviction.
+
+Components to Forensic Investigation:
+1. Admissibility
+2. Order of Volatility: Collecting the most perishable evidence first
+   a. Web-Based Attack
+   b. Attack inside a Computer
+   c. Removable Storage Drive Attached to a Computer/Server
+   d. Command-Line Tools - netstat -an: this tool provides information that could disappear if you reboot the computer
